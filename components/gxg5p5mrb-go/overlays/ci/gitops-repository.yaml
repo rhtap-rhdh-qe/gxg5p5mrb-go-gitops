@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gxg5p5mrb-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gxg5p5mrb-go-gitops
